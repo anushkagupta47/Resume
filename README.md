@@ -1,24 +1,25 @@
-# 📄 Anushka Gupta - Professional Resumes
+# 📄 Professional Resume Repository | Anushka Gupta
 
-This repository contains my latest professional resumes, optimized for different technical tracks. I am a final-year B.E. student specializing in **Artificial Intelligence** at **Babu Banarasi Das University** (Expected 2026).
+This repository houses the professional documentation for my journey as an **AI Engineer** and **Software Developer**. 
 
-## 📥 Quick Download Links
-* 🤖 [AI / ML Engineer Resume (PDF)](./Anushka_Gupta_Resume__AIML.pdf)
-* 📊 [Data Science Resume (PDF)](./Anushka_Gupta_Resume_DS.pdf)
-* 💻 [Software Development Engineer (SDE) Resume (PDF)](./Anushka_Gupta-Resume_SDE.pdf)
+> [!NOTE]
+> I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** (Expected 2026) with a focus on Artificial Intelligence and Geospatial technologies.
 
-## 🚀 Professional Highlights
-* **Academic Standing:** Cumulative GPA: **8.0/10**
-* **Specialized Training:** Technical Trainer at **India Space Lab** (GIS & Aerospace)
-* **Research:** Author of "Smart Bin" - Published in **ADG 2025, IEEE Computational Intelligence Society**
-* **Leadership:** Chairperson, **IEEE Student Branch** (Managing 70+ members)
+## 🚀 Professional Snapshot
+* [cite_start]**Academic Excellence:** Maintaining a cumulative GPA of **8.0/10**.
+* [cite_start]**Research & Publication:** Published author in **IEEE ADG 2025** for AI-driven waste management systems.
+* [cite_start]**Technical Leadership:** Chairperson of the **IEEE Student Branch**, overseeing technical initiatives for 70+ members.
+* [cite_start]**Industry Experience:** Internships spanning **India Space Lab**, **REXai**, and **Deloitte Australia**.
 
-## 🛠️ Core Skills
-* **AI/ML:** Generative AI, LLMs, Computer Vision, NLP, Neural Networks
-* **Software:** Python, Django, SQL, JavaScript, C, HTML/CSS
-* **Analytical:** Tableau, Power BI, QGIS, Statsmodels
+## 🛠️ Expertise
+* [cite_start]**AI & GenAI:** Large Language Models, AI Agents, Neural Networks, and NLP.
+* [cite_start]**Development:** Python, Django, SQL, JavaScript, and C.
+* [cite_start]**Specialized:** QGIS, Tableau, and Time Series Forecasting.
 
-## 🔗 Main Profile & Portfolio
-* [Main GitHub Profile](https://github.com/anushkagupta47)
-* [LinkedIn](https://www.linkedin.com/in/anushkagupta47)
-* [LeetCode](https://leetcode.com/u/anushka_47/)
+## 📂 Repository Contents
+This repo contains my latest resumes optimized for **AI/ML**, **Data Science**, and **SDE** roles. 
+
+*If you are looking for my most recent and specific resume for a referral, please feel free to reach out to me directly on LinkedIn.*
+
+## 🔗 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/anushkagupta47) | [Main GitHub Profile](https://github.com/anushkagupta47) | [LeetCode](https://leetcode.com/u/anushka_47/)
