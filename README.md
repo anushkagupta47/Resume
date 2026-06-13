@@ -13,23 +13,23 @@
 ## 💫 About Me
 I am a **Computer Science & Engineering** graduate specializing in **Artificial Intelligence** from **Babu Banarasi Das University**. This repository serves as a centralized hub for my targeted professional documentation, showcasing my work spanning **Generative AI & Intelligent Agents**, **Scalable Backend Engineering**, and **Geospatial Analytics**.
 
-🎓 **Academic Excellence:** Completed my B.E. with a cumulative CGPA of **8.0/10**.
-🎖️ **Elite Fellowships:** Recognized nationally as a **Fellow for the Samsung Fellowship** (ISWDP Cohort 8), and selected as a **National Finalist for the Gandhi Fellowship**, demonstrating a commitment to high-impact technical and social innovation.
-🛰️ **Geospatial & Space Tech:** Worked as a **GIS Intern at India Space Lab**, performing network road modeling, spatial adjustments, and site suitability analysis.
-🏆 **Leadership:** Founder & Ex-Chairperson of the **IEEE Student Branch (BBDU)**, where I built the campus chapter from the ground up to 70+ active members and coordinated IDEATHON 2025.
-📜 **Publications & Awards:** Author of *"Smart Bin: An IoT-Based Waste Segregation System"* published with the **IEEE Computational Intelligence Society (ADG 2025)** and recipient of the **IEEE SPS UP Chapter Student Award**.
+* 🎓 **Academic Excellence:** Completed my B.E. with a cumulative CGPA of **8.0/10**.
+* 🎖️ **Elite Fellowships:** Recognized nationally as a **Fellow for the Samsung Fellowship** (ISWDP Cohort 8), and selected as a **National Finalist for the Gandhi Fellowship**, demonstrating a commitment to high-impact technical and social innovation.
+* 🛰️ **Geospatial & Space Tech:** Worked as a **GIS Intern at India Space Lab**, performing network road modeling, spatial adjustments, and site suitability analysis.
+* 🏆 **Leadership:** Founder & Ex-Chairperson of the **IEEE Student Branch (BBDU)**, where I built the campus chapter from the ground up to 70+ active members and coordinated IDEATHON 2025.
+* 📜 **Publications & Awards:** Author of *"Smart Bin: An IoT-Based Waste Segregation System"* published with the **IEEE Computational Intelligence Society (ADG 2025)** and recipient of the **IEEE SPS UP Chapter Student Award**.
 
 ---
 
 ## 📂 Targeted Domain Resumes
 This repository contains targeted versions of my resume, each custom-optimized for distinct technical tracks:
 
-**AI / ML Engineer Resume:** Focused on LLMs, Multi-Agent systems (MCP), Computer Vision, and deep learning pipelines.
-**Software Engineer (SDE) Resume:** Focused on Django backend application layers, relational database optimization, secure REST APIs, and low-latency data streams.
-**Data Scientist / Analyst Resume:** Focused on Tableau/Power BI dashboarding, handling severe data distribution imbalances, and statistical time-series forecasting.
+* **AI / ML Engineer Resume:** Focused on LLMs, Multi-Agent systems (MCP), Computer Vision, and deep learning pipelines.
+* **Software Engineer (SDE) Resume:** Focused on Django backend application layers, relational database optimization, secure REST APIs, and low-latency data streams.
+* **Data Scientist / Analyst Resume:** Focused on Tableau/Power BI dashboarding, handling severe data distribution imbalances, and statistical time-series forecasting.
 
 > [!TIP]
-> [cite_start]To protect personal contact details, these documents are intended for authorized recruitment and referral use. For the most up-to-date custom copy tailored for a specific job application, please reach out directly via LinkedIn.
+> To protect personal contact details, these documents are intended for authorized recruitment and referral use. For the most up-to-date custom copy tailored for a specific job application, please reach out directly via LinkedIn.
 
 ---
 
